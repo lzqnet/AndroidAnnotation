@@ -1,0 +1,4 @@
+include ':annotationkotlinlib'
+include ':annotationlib'
+include ':app'
+rootProject.name = "lzqCustomAnnotation"
